@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph author="Jan Slechta" created="Fri Oct 28 00:24:22 EDT 2016" guiVersion="4.2.1" id="1477630055428" licenseCode="CLP1DJAVLI15616235BY" name="NewGraph" showComponentDetails="true">
+<Global>
+<GraphParameters>
+<GraphParameterFile fileURL="workspace.prm"/>
+</GraphParameters>
+<Dictionary/>
+</Global>
+<Phase number="0">
+<Node guiName="DataGenerator" guiX="125" guiY="83" id="DATA_GENERATOR" type="DATA_GENERATOR"/>
+</Phase>
+</Graph>
