@@ -15,7 +15,7 @@
 <Node guiName="DataGenerator" guiX="125" guiY="83" id="DATA_GENERATOR" type="DATA_GENERATOR"/>
 <Node guiName="Reformat" guiX="319" guiY="83" id="REFORMAT" type="REFORMAT">
 <attr name="transform"><![CDATA[//#CTL2
-
+// Additional comment
 // Transforms input record into output record.
 function integer transform() {
 	$out.0.* = $in.0.*;
